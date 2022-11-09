@@ -1,0 +1,25 @@
+{
+  "name": "profile-card-frontendmentor",
+  "version": "1.0.0",
+  "description": "This is a challenge from frontendmentor.io",
+  "scripts": {
+    "start": "parcel src/*.html --open",
+    "build": "parcel build src/*.html --public-url ./"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/A14313/profile-card-frontendmentor.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/A14313/profile-card-frontendmentor/issues"
+  },
+  "homepage": "https://github.com/A14313/profile-card-frontendmentor#readme",
+  "devDependencies": {
+    "@parcel/transformer-sass": "^2.7.0",
+    "parcel": "^2.7.0",
+    "sass": "^1.56.0"
+  }
+}
