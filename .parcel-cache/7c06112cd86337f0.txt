@@ -1,4 +1,4 @@
-4369
+4365
 95C:\Users\TSC-Autor\Desktop\14313Webprojects\github-projects\profile-card-frontendmentor\LICENSE133123764218540218 0
 109C:\Users\TSC-Autor\Desktop\14313Webprojects\github-projects\profile-card-frontendmentor\src\scss\_resets.scss133123781076188578 0
 139C:\Users\TSC-Autor\Desktop\14313Webprojects\github-projects\profile-card-frontendmentor\node_modules\@parcel\runtime-js\lib\helpers\browser133123772977593053 1
@@ -48,7 +48,7 @@
 127C:\Users\TSC-Autor\Desktop\14313Webprojects\github-projects\profile-card-frontendmentor\node_modules\svgo\plugins\reusePaths.js133123773029405621 0
 140C:\Users\TSC-Autor\Desktop\14313Webprojects\github-projects\profile-card-frontendmentor\node_modules\caniuse-lite\data\features\dommatrix.js133123773156079296 0
 118C:\Users\TSC-Autor\Desktop\14313Webprojects\github-projects\profile-card-frontendmentor\node_modules\has-flag\index.js133123772866685328 0
-92C:\Users\TSC-Autor\Desktop\14313Webprojects\github-projects\profile-card-frontendmentor\dist133126046324965252 1
+92C:\Users\TSC-Autor\Desktop\14313Webprojects\github-projects\profile-card-frontendmentor\dist133126262766058496 1
 132C:\Users\TSC-Autor\Desktop\14313Webprojects\github-projects\profile-card-frontendmentor\node_modules\caniuse-lite\data\regions\KR.js133123773166122339 0
 115C:\Users\TSC-Autor\Desktop\14313Webprojects\github-projects\profile-card-frontendmentor\node_modules\is-binary-path133123770785429182 1
 132C:\Users\TSC-Autor\Desktop\14313Webprojects\github-projects\profile-card-frontendmentor\node_modules\css-tree\lib\tokenizer\utils.js133123773080917617 0
@@ -83,11 +83,11 @@
 128C:\Users\TSC-Autor\Desktop\14313Webprojects\github-projects\profile-card-frontendmentor\node_modules\regenerator-runtime\path.js133123772864301368 0
 124C:\Users\TSC-Autor\Desktop\14313Webprojects\github-projects\profile-card-frontendmentor\node_modules\svgo\lib\stringifier.js133123773036978138 0
 134C:\Users\TSC-Autor\Desktop\14313Webprojects\github-projects\profile-card-frontendmentor\node_modules\@parcel\utils\src\PromiseQueue.js133123773008495661 0
-114C:\Users\TSC-Autor\Desktop\14313Webprojects\github-projects\profile-card-frontendmentor\src\scss\_breakpoints.scss133123778680445723 0
+114C:\Users\TSC-Autor\Desktop\14313Webprojects\github-projects\profile-card-frontendmentor\src\scss\_breakpoints.scss133126248850479756 0
 138C:\Users\TSC-Autor\Desktop\14313Webprojects\github-projects\profile-card-frontendmentor\node_modules\type-fest\source\set-return-type.d.ts133123772984107265 0
 113C:\Users\TSC-Autor\Desktop\14313Webprojects\github-projects\profile-card-frontendmentor\node_modules\lightningcss133123772896423660 1
 108C:\Users\TSC-Autor\Desktop\14313Webprojects\github-projects\profile-card-frontendmentor\node_modules\@parcel133123776121940879 1
-106C:\Users\TSC-Autor\Desktop\14313Webprojects\github-projects\profile-card-frontendmentor\src\scss\main.scss133126046324059487 0
+106C:\Users\TSC-Autor\Desktop\14313Webprojects\github-projects\profile-card-frontendmentor\src\scss\main.scss133126262764194455 0
 146C:\Users\TSC-Autor\Desktop\14313Webprojects\github-projects\profile-card-frontendmentor\node_modules\caniuse-lite\data\features\async-functions.js133123772987171655 0
 109C:\Users\TSC-Autor\Desktop\14313Webprojects\github-projects\profile-card-frontendmentor\node_modules\domutils133123772942234634 1
 118C:\Users\TSC-Autor\Desktop\14313Webprojects\github-projects\profile-card-frontendmentor\node_modules\yaml\package.json133123773003359083 0
@@ -110,7 +110,7 @@
 155C:\Users\TSC-Autor\Desktop\14313Webprojects\github-projects\profile-card-frontendmentor\node_modules\lmdb\node_modules\node-addon-api\tools\clang-format.js133123772926558925 0
 98C:\Users\TSC-Autor\Desktop\14313Webprojects\github-projects\profile-card-frontendmentor\src\images133123765327058116 1
 131C:\Users\TSC-Autor\Desktop\14313Webprojects\github-projects\profile-card-frontendmentor\node_modules\@babel\code-frame\lib\index.js133123772867700517 0
-102C:\Users\TSC-Autor\Desktop\14313Webprojects\github-projects\profile-card-frontendmentor\src\index.html133126037024541473 0
+102C:\Users\TSC-Autor\Desktop\14313Webprojects\github-projects\profile-card-frontendmentor\src\index.html133126261847180337 0
 134C:\Users\TSC-Autor\Desktop\14313Webprojects\github-projects\profile-card-frontendmentor\node_modules\@parcel\reporter-cli\package.json133123772927871712 0
 148C:\Users\TSC-Autor\Desktop\14313Webprojects\github-projects\profile-card-frontendmentor\node_modules\lmdb\dependencies\lmdb\libraries\liblmdb\midl.c133123773044882038 0
 127C:\Users\TSC-Autor\Desktop\14313Webprojects\github-projects\profile-card-frontendmentor\node_modules\svgo\plugins\cleanupIDs.js133123772905288238 0
@@ -1466,7 +1466,6 @@
 128C:\Users\TSC-Autor\Desktop\14313Webprojects\github-projects\profile-card-frontendmentor\node_modules\@parcel\workers\src\process133123772963465275 1
 138C:\Users\TSC-Autor\Desktop\14313Webprojects\github-projects\profile-card-frontendmentor\node_modules\msgpackr-extract\src\.vs\src\v16\.suo133123772866150023 0
 133C:\Users\TSC-Autor\Desktop\14313Webprojects\github-projects\profile-card-frontendmentor\node_modules\regenerator-runtime\package.json133123772875202634 0
-115C:\Users\TSC-Autor\Desktop\14313Webprojects\github-projects\profile-card-frontendmentor\dist\index.242c3020.css.map133125172769987567 0
 129C:\Users\TSC-Autor\Desktop\14313Webprojects\github-projects\profile-card-frontendmentor\node_modules\cosmiconfig\dist\Explorer.js133123772867780333 0
 131C:\Users\TSC-Autor\Desktop\14313Webprojects\github-projects\profile-card-frontendmentor\node_modules\regenerator-runtime\runtime.js133123772867760325 0
 118C:\Users\TSC-Autor\Desktop\14313Webprojects\github-projects\profile-card-frontendmentor\node_modules\readdirp\index.js133123770784791344 0
@@ -4115,7 +4114,7 @@
 163C:\Users\TSC-Autor\Desktop\14313Webprojects\github-projects\profile-card-frontendmentor\node_modules\@parcel\core\test\fixtures\custom-format-mismatch\package.json133123773096656245 0
 164C:\Users\TSC-Autor\Desktop\14313Webprojects\github-projects\profile-card-frontendmentor\node_modules\@parcel\core\test\fixtures\custom-format-infer-ext\package.json133123773096636245 0
 158C:\Users\TSC-Autor\Desktop\14313Webprojects\github-projects\profile-card-frontendmentor\node_modules\@parcel\core\test\fixtures\config-node-pipeline\.parcelrc133123772884235664 0
-120C:\Users\TSC-Autor\Desktop\14313Webprojects\github-projects\profile-card-frontendmentor\dist\bg-pattern-top.3505ea42.svg133126046304966986 0
+120C:\Users\TSC-Autor\Desktop\14313Webprojects\github-projects\profile-card-frontendmentor\dist\bg-pattern-top.3505ea42.svg133126262765893309 0
 168C:\Users\TSC-Autor\Desktop\14313Webprojects\github-projects\profile-card-frontendmentor\node_modules\@parcel\core\test\fixtures\config-extends-not-found\.parcelrc-json5133123772920065785 0
 144C:\Users\TSC-Autor\Desktop\14313Webprojects\github-projects\profile-card-frontendmentor\node_modules\@parcel\core\test\fixtures\config\subfolder133123772904210564 1
 154C:\Users\TSC-Autor\Desktop\14313Webprojects\github-projects\profile-card-frontendmentor\node_modules\@parcel\core\test\fixtures\config\subfolder\.parcelrc133123772904770171 0
@@ -4357,14 +4356,11 @@
 110C:\Users\TSC-Autor\Desktop\14313Webprojects\github-projects\profile-card-frontendmentor\node_modules\.bin\svgo133123773197102951 0
 112C:\Users\TSC-Autor\Desktop\14313Webprojects\github-projects\profile-card-frontendmentor\node_modules\.bin\terser133123773197102951 0
 116C:\Users\TSC-Autor\Desktop\14313Webprojects\github-projects\profile-card-frontendmentor\node_modules\.bin\terser.cmd133123773197102951 0
-123C:\Users\TSC-Autor\Desktop\14313Webprojects\github-projects\profile-card-frontendmentor\dist\bg-pattern-bottom.091f1bd8.svg133126046304757132 0
-121C:\Users\TSC-Autor\Desktop\14313Webprojects\github-projects\profile-card-frontendmentor\dist\bg-pattern-card.107dc85b.svg133125172769937613 0
-121C:\Users\TSC-Autor\Desktop\14313Webprojects\github-projects\profile-card-frontendmentor\dist\bg-pattern-card.514b0c95.svg133126046304747155 0
-118C:\Users\TSC-Autor\Desktop\14313Webprojects\github-projects\profile-card-frontendmentor\dist\image-victor.f31a3cae.jpg133126046304537301 0
-118C:\Users\TSC-Autor\Desktop\14313Webprojects\github-projects\profile-card-frontendmentor\dist\image-victor.fd6e98f1.jpg133125172734051377 0
-111C:\Users\TSC-Autor\Desktop\14313Webprojects\github-projects\profile-card-frontendmentor\dist\index.242c3020.css133125172769947589 0
-111C:\Users\TSC-Autor\Desktop\14313Webprojects\github-projects\profile-card-frontendmentor\dist\index.b10d73a7.css133126046324915294 0
-115C:\Users\TSC-Autor\Desktop\14313Webprojects\github-projects\profile-card-frontendmentor\dist\index.b10d73a7.css.map133126046324945270 0
-103C:\Users\TSC-Autor\Desktop\14313Webprojects\github-projects\profile-card-frontendmentor\dist\index.html133126046304966986 0
-132C:\Users\TSC-Autor\Desktop\14313Webprojects\github-projects\profile-card-frontendmentor\dist\profile-card-frontendmentor.59712999.js133126046305364133 0
-136C:\Users\TSC-Autor\Desktop\14313Webprojects\github-projects\profile-card-frontendmentor\dist\profile-card-frontendmentor.59712999.js.map133126046305392340 0
+123C:\Users\TSC-Autor\Desktop\14313Webprojects\github-projects\profile-card-frontendmentor\dist\bg-pattern-bottom.091f1bd8.svg133126262765793376 0
+121C:\Users\TSC-Autor\Desktop\14313Webprojects\github-projects\profile-card-frontendmentor\dist\bg-pattern-card.514b0c95.svg133126262765783404 0
+118C:\Users\TSC-Autor\Desktop\14313Webprojects\github-projects\profile-card-frontendmentor\dist\image-victor.f31a3cae.jpg133126262765893309 0
+111C:\Users\TSC-Autor\Desktop\14313Webprojects\github-projects\profile-card-frontendmentor\dist\index.b10d73a7.css133126262765993248 0
+115C:\Users\TSC-Autor\Desktop\14313Webprojects\github-projects\profile-card-frontendmentor\dist\index.b10d73a7.css.map133126262766048525 0
+103C:\Users\TSC-Autor\Desktop\14313Webprojects\github-projects\profile-card-frontendmentor\dist\index.html133126262765993248 0
+132C:\Users\TSC-Autor\Desktop\14313Webprojects\github-projects\profile-card-frontendmentor\dist\profile-card-frontendmentor.59712999.js133126262765873324 0
+136C:\Users\TSC-Autor\Desktop\14313Webprojects\github-projects\profile-card-frontendmentor\dist\profile-card-frontendmentor.59712999.js.map133126262765943274 0
