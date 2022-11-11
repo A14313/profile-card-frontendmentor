@@ -15,8 +15,8 @@
 
 ### Links
 
-**- [Solution URL](https://www.frontendmentor.io/solutions/mobilefirst-solution-using-css-grid-and-flexbox-9ktU1M_TTC)
-**
+- [Solution URL](https://www.frontendmentor.io/solutions/responsive-card-mobilefirst-workflow-941q1kZ3Wa)
+
 - [Live Site URL](https://a14313.github.io/profile-card-frontendmentor/dist)
 
 ## Author
