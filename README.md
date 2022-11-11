@@ -14,7 +14,9 @@
 - Mobile-first workflow
 
 ### Links
-//- [Solution URL](https://www.frontendmentor.io/solutions/mobilefirst-solution-using-css-grid-and-flexbox-9ktU1M_TTC)
+```
+- [Solution URL](https://www.frontendmentor.io/solutions/mobilefirst-solution-using-css-grid-and-flexbox-9ktU1M_TTC)
+```
 - [Live Site URL](https://a14313.github.io/profile-card-frontendmentor/dist)
 
 ## Author
